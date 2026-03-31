@@ -92,20 +92,20 @@ Main application class with interactive menu-driven interface:
 
 ## Features
 
-✅ **Patient Management**
+ **Patient Management**
 - Register new patients
 - Update patient information
 - Search and view patient details
 - Delete patient records
 
-✅ **Doctor Management**
+ **Doctor Management**
 - Register new doctors
 - Update doctor information
 - Search doctors by specialization
 - View doctor details
 - Manage doctor records
 
-✅ **Appointment Booking**
+ **Appointment Booking**
 - Book appointments with date/time validation
 - Prevent double-booking of time slots
 - Reschedule appointments
@@ -113,7 +113,7 @@ Main application class with interactive menu-driven interface:
 - View available time slots
 - Track appointment status
 
-✅ **Data Management**
+ **Data Management**
 - Prevent appointments in the past
 - Check appointment slot availability
 - Filter appointments by patient/doctor
@@ -191,10 +191,4 @@ Available appointment slots: 9:00 AM to 4:00 PM (hourly intervals)
 - LocalDate and LocalTime for date/time handling
 - Stream API for filtering operations
 
-## Author
 
-Doctor Appointment Booking System v1.0
-
-## License
-
-MIT License
